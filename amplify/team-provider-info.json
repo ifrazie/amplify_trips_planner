@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-helloworldflutter-dev-90805-authRole",
+      "UnauthRoleArn": "arn:aws:iam::606713070136:role/amplify-helloworldflutter-dev-90805-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::606713070136:role/amplify-helloworldflutter-dev-90805-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-helloworldflutter-dev-90805-deployment",
+      "UnauthRoleName": "amplify-helloworldflutter-dev-90805-unauthRole",
+      "StackName": "amplify-helloworldflutter-dev-90805",
+      "StackId": "arn:aws:cloudformation:us-west-1:606713070136:stack/amplify-helloworldflutter-dev-90805/e2b65a90-771a-11ed-87ed-067672968021",
+      "AmplifyAppId": "d1zyho0dzdkd9v"
+    },
+    "categories": {
+      "auth": {
+        "helloworldflutter0c9b1759": {}
+      },
+      "api": {
+        "helloworldflutter": {}
+      },
+      "storage": {
+        "amplifytripsplannerstorage": {}
+      }
+    }
+  }
+}
